@@ -1,12 +1,14 @@
 import React from "react";
-import MultiplePizzas from "../assets/multiplePizzas.jpeg";
+//import MultiplePizzas from "url('https://as1.ftcdn.net/v2/jpg/04/94/00/04/1000_F_494000438_gu8W4LMiw24x0t1IBOFo2pg2BXLCznbq.jpg')";
 import "../styles/About.css";
+import Navbar from "./Navbar";
 function About() {
   return (
+    <>
+    <Navbar />
     <div className="about">
       <div
         className="aboutTop"
-        style={{ backgroundImage: `url(${MultiplePizzas})` }}
       ></div>
       <div className="aboutBottom">
         <h1> ABOUT US</h1>
@@ -27,6 +29,8 @@ function About() {
         </p>
       </div>
     </div>
+    </>
+    
   );
 }
 

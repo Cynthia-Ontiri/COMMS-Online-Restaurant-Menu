@@ -1,3 +1,7 @@
+
+.top{
+  padding-top: 10rem;
+}
 .menu {
   width: 100%;
   height: auto;
@@ -9,6 +13,12 @@
 .menu .menuTitle {
   font-family: cursive;
   font-size: 60px;
+  padding-top: 1.5rem;
+}
+
+p{
+  font-size: 20px;
+  padding-top: 0.5rem;
 }
 
 .menuList {
