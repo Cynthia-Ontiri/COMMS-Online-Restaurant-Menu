@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/COMMS-Online-Restaurant-Menu/static/css/main.9a39b803.css",
+    "main.js": "/COMMS-Online-Restaurant-Menu/static/js/main.176b60f4.js",
+    "static/js/787.dd425a2c.chunk.js": "/COMMS-Online-Restaurant-Menu/static/js/787.dd425a2c.chunk.js",
+    "static/media/pizzaLeft.jpg": "/COMMS-Online-Restaurant-Menu/static/media/pizzaLeft.24b07891fef1c8dae848.jpg",
+    "static/media/vegan.jpg": "/COMMS-Online-Restaurant-Menu/static/media/vegan.52cbfe9e6f8d75e18f8b.jpg",
+    "static/media/expensive.jpg": "/COMMS-Online-Restaurant-Menu/static/media/expensive.6449ceefce083d18dfef.jpg",
+    "static/media/pepperoni.jpg": "/COMMS-Online-Restaurant-Menu/static/media/pepperoni.d173e5db8dacdf1324ed.jpg",
+    "static/media/pineapple.jpg": "/COMMS-Online-Restaurant-Menu/static/media/pineapple.a01ab9be389f0e6bd6ec.jpg",
+    "static/media/margherita.jpg": "/COMMS-Online-Restaurant-Menu/static/media/margherita.683bc9bb07f9ff0d82df.jpg",
+    "static/media/pedrotechspecial.jpg": "/COMMS-Online-Restaurant-Menu/static/media/pedrotechspecial.425951cb0e484775fd4c.jpg",
+    "index.html": "/COMMS-Online-Restaurant-Menu/index.html",
+    "main.9a39b803.css.map": "/COMMS-Online-Restaurant-Menu/static/css/main.9a39b803.css.map",
+    "main.176b60f4.js.map": "/COMMS-Online-Restaurant-Menu/static/js/main.176b60f4.js.map",
+    "787.dd425a2c.chunk.js.map": "/COMMS-Online-Restaurant-Menu/static/js/787.dd425a2c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a39b803.css",
+    "static/js/main.176b60f4.js"
+  ]
+}
