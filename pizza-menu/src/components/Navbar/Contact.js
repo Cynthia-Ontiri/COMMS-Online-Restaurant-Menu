@@ -5,6 +5,8 @@ import Navbar from "./Navbar";
 
 
 function Contact() {
+  
+
   return (
     <>
     <Navbar />
@@ -14,8 +16,10 @@ function Contact() {
       ></div>
       <div className="rightSide">
         <h1> Contact Us</h1>
+        
 
         <form id="contact-form" method="POST">
+          
           <label htmlFor="name">Full Name</label>
           <input name="name" placeholder="Enter full name..." type="text" />
           <label htmlFor="email">Email</label>
