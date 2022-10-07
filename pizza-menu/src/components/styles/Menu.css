@@ -16,6 +16,10 @@
   padding-top: 1.5rem;
 }
 
+.search-container {
+  margin:2px ;
+}
+
 p{
   font-size: 20px;
   padding-top: 0.5rem;
