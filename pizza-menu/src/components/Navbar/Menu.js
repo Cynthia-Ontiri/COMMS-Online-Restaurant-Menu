@@ -10,6 +10,9 @@ function Menu() {
     <Navbar />
     <div className="menu">
       <h1 className="menuTitle">Our Menu</h1>
+      <div class= "search-container">
+        <input type= "text" placeholder= "Enter pizza"/>
+      </div>
       <div className="menuList">
         {MenuList.map((menuItem, key) => {
           return (
