@@ -1,0 +1,85 @@
+{
+  "pizzas": [
+    {
+      "id": 1,
+      "name": "Pepperoni",
+      "topping": [
+        "Tomat",
+        "Ost",
+        "Skinka"
+      ]
+      
+    },
+    {
+      "id": 2,
+      "name": "Magherita",
+      "topping": [
+        "Tomat",
+        "Ost",
+        "Skinka",
+        "Ananas"
+      ]
+    },
+    {
+
+      "id": 3,
+      "name": "PedroTech",
+      "topping": [
+        "Tomat",
+        "Ost",
+        "Parmaskinka",
+        "Olives"
+      ]
+    },
+    {
+
+      "id": 4,
+      "name": "Vegan",
+      "topping": [
+        "Tomat",
+        "Ost",
+        "Parmaskinka",
+        "Olives"
+      ]
+    },
+    {
+
+      "id": 5,
+      "name": "Pineapple",
+      "topping": [
+        "Tomat",
+        "Ost",
+        "Parmaskinka",
+        "Olives"
+      ]
+    },
+    {
+
+      "id": 6,
+      "name": "Very Expensive",
+      "topping": [
+        "Tomat",
+        "Ost",
+        "Parmaskinka",
+        "Olives"
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "id": 1,
+      "email": "cynthiamandere@gmail.com",
+      "postId": 1
+      
+    }
+  ],
+  "message": [
+    {
+      "fullname": "Cynthia Mandere",
+      "email": "cynthiamandere@gmail.com",
+      "message":"any message"
+      
+    }
+  ]
+ 
+}
