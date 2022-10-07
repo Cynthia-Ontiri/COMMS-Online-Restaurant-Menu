@@ -7,21 +7,12 @@ import Contact from './components/Navbar/Contact'
 
 
 
-class App extends Component {
 
-  getFetchUsers() {
-    this.setState({
-        loading: true
-    }, () => {
-        fetch("http://localhost:3000/posts").then(res => res.json()).then(result => this.setState({
-            loading: false,
-            users: result
-        })).catch(console.log);
-    });
-}
+class App extends Component {
 
 render() {
 	return (
+    
 		
     <BrowserRouter>
     <Routes>
@@ -29,8 +20,10 @@ render() {
       <Route path='/menu' element = { <Menu />}/>
       <Route path='/about' element = { <About />} />
       <Route path = '/contact' element = { <Contact />}/>
+      
     </Routes>
     </BrowserRouter>
+     
 
 	);
 }
