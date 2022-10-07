@@ -3,6 +3,7 @@ import React from "react";
 import "../styles/Contact.css";
 import Navbar from "./Navbar";
 
+
 function Contact() {
   return (
     <>
@@ -34,5 +35,7 @@ function Contact() {
     
   );
 }
+ 
+
 
 export default Contact;
